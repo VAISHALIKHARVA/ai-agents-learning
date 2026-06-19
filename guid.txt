@@ -9,3 +9,6 @@ pip install langchain python-dotenv streamlit pypdf
 pip install langchain langchain-groq langgraph
 pip install pygame pandas openpyxl
 pip install langchain-community wikipedia
+pip install langgraph-supervisor
+
+pip install streamlit langchain-core pypdf langchain-groq python-dotenv langgraph langchain-community ddgs pygame numpy matplotlib
